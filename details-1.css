@@ -1,0 +1,20 @@
+*{margin: 0;padding: 0;}
+#container{ width: 1098px;margin: 0 auto;margin-top: 25px;border-bottom: 1px solid #767676;padding-bottom: 25px;}
+#youfu{width: 549px;text-align: center;float: right;}
+#zuofu{width: 549px;float: left;}
+#container:after{content:"";clear: both;display: block;}
+#zuofu img{width: 549px;height: 650px;}
+#youfu table{width: 400px;}
+#youfu table tr td.c1{border-bottom: 1px solid #767676;padding: 10px;}
+table tr td.xinyuandan{font-size: 14px;color: black;}
+.gengduoxijie{font-size: 14px;color: black;}
+p.two{margin-bottom: 10px;margin-top: 10px;}
+span.three{display:inline-block; width: 100px;height: 20px;background: #000;margin-right: 5px;}
+#xunzhao{display: inline-block;margin-bottom: 18px;margin-top: 18px;font-size: 13px;font-weight: 700;}
+#zaoxing{text-align: center;margin-top: 40px;}
+#button1{display:block;margin: 0 auto;margin-top:30px;margin-bottom:30px;}
+@keyframes change {
+    0% { transform: translateY(0px); }
+    100% {transform: translateY(-10px); }
+}
+#button1:hover{animation: change .8s;animation-fill-mode:forwards;}

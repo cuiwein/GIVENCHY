@@ -1,0 +1,15 @@
+#dddd{width: 1098px; margin: 0 auto;text-align: center;}
+#dddd input{margin: 0 auto;}
+.zt1{text-align: center; font-weight: 500;}
+.ckdd11{width:461px;height: 34px;border: 0;outline: 0;border-bottom: 1px solid #ddd;margin-bottom: 30px;color: #767676;display: block;}
+#dddd{padding-top:30px;}
+h1+p{display: block;margin-bottom: 10px;margin-top: 10px;}
+#dddd input{margin-top:15px; font-size: 15px; }
+.mmimatishi{display: block;margin-top: 8px;font-size: 13px;margin-bottom: 15px;}
+.aanniu{margin-bottom: 100px;margin-top: 60px;}
+.woxiwang{font-size: 13px;color:#767676;}
+@keyframes change {
+    0% { transform: translateY(0px); }
+    100% {transform: translateY(-10px); }
+}
+button.anniu:hover{animation: change .8s;animation-fill-mode:forwards;}

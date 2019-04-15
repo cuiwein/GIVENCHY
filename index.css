@@ -1,0 +1,24 @@
+*{margin:0;padding: 0;}
+/*轮播*/
+
+/*轮播结束*/
+section div a img.simg{width:100%;}
+section div{margin-bottom: 6px;}
+#fx{width: 1098px;margin: 0 auto;}
+#fx1,#fx2{width:544px;display:inline-block;margin-bottom: 20px;}
+#fx1{margin-right: 5px;}
+.fxfx{font-size:15px;font-weight:800;  margin-top: 40px;margin-bottom: 30px;text-align: center;}
+
+/*男士女士*/
+#nn{width: 1098px;margin:0 auto;}
+.nanshi,.nvshi{float:left;margin-bottom: 60px;width: 550px;text-align: center;}
+.nvshi{width: 547px;}
+.a33{border:1px solid #000;text-decoration: none;padding:10px;margin-right: 10px;display:inline-block;width: 86px;}
+.nvshi{border-right:1px solid #000;}
+.nvshi p,.nanshi p{font: bold 15px 黑体;margin-bottom: 30px;margin-top: 23px;}
+.a3{display:inline-block; margin-top: 23px;}
+/*#nn div a:link{color:#000;}*/
+a.a33:hover{background-color: rgb(240,240,240);border-top-left-radius:50%;border-bottom-right-radius:50%;transition-duration:1000ms;}
+a.a33:link{color:black;text-decoration: none;}
+a.a33:active{color:black;background-color: #fff;}
+a.a33:visited{color:black;background-color: #fff;}
